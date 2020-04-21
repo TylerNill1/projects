@@ -1,1 +1,1 @@
-test
+In this folder are three items: Lyrae Star Light Curve Jupyter Notebook, Lyrae Star Light Curve Markdown, and Lyrae Star Light Curve Report. The Jupyter Notebook and Markdown are very similar; however, GitHub failed to convert the screenshots when uploading the notebook. So, the markdown has the screenshots that are missing within the notebook file. The Lyrae Star Light Curve report is the PDF file of the report I wrote with the data my team and I acquired.
